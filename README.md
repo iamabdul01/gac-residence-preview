@@ -16,7 +16,8 @@ No build step or package install is required. Open `index.html` directly in a mo
 
 - Replace the cinematic hero placeholder with the client’s homepage video and add GAC-approved property photography in `styles.css`.
 - Confirm the current Airbnb listing URLs and add the preferred direct contact details.
-- The residence edit and host academy are presented as brand sections; add confirmed product/course details when available.
+- The products section includes photo placeholders for the Hospitality Box and GAC Staycation Box. Add client-approved product photos and the public Paystack Payment Page URL for each product before enabling checkout.
+- The business and stay listings are presented as Abuja-only. Confirm the live Airbnb listing remains current before sharing booking links.
 
 The live reference site was not accessible from the project runtime. Property names, locations and described amenities are based on publicly indexed GAC Residence Airbnb listings. Images are remote Unsplash placeholders and therefore need an internet connection until replaced with local approved assets.
 
